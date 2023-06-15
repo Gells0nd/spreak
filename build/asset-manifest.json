@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59639676.css",
+    "main.js": "/static/js/main.e43354f3.js",
+    "static/media/pro2.png": "/static/media/pro2.cdaadc44f6b06a9eac5e.png",
+    "static/media/pro1.png": "/static/media/pro1.1d249eb05ca346bca127.png",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/pro3.png": "/static/media/pro3.716ffc86cffa8bfe4f3b.png",
+    "static/media/banner-img.svg": "/static/media/banner-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/logo.png": "/static/media/logo.95f239da58e6eb4b8860.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/scss.svg": "/static/media/scss.f20a1a4c2f3cd6bf519cbc812ff36f7d.svg",
+    "static/media/react.svg": "/static/media/react.a0265b6e1e20402f0a63c16d9d5c692a.svg",
+    "static/media/vscode.svg": "/static/media/vscode.6aba2a85371049fb4117a4a3c79c269c.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.15be0b5d4ad3ea5656ad088c9ba520f2.svg",
+    "static/media/js.svg": "/static/media/js.d293871fa9c42620bfca4879e4a9d4bd.svg",
+    "static/media/git.svg": "/static/media/git.0dd7ae1bbf4be3567f6c2ca5c76dfb2a.svg",
+    "static/media/github.svg": "/static/media/github.bed61372d7ae6f20abfc03bc8421b3ae.svg",
+    "index.html": "/index.html",
+    "static/media/css.svg": "/static/media/css.1eb725fed80e6cd17129386644d5ddab.svg",
+    "static/media/html.svg": "/static/media/html.5136b88fc9e8437c2eb392860756f16d.svg",
+    "static/media/tailwind.svg": "/static/media/tailwind.b9b1c1f1882bc9294438cade232ec45e.svg",
+    "main.59639676.css.map": "/static/css/main.59639676.css.map",
+    "main.e43354f3.js.map": "/static/js/main.e43354f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59639676.css",
+    "static/js/main.e43354f3.js"
+  ]
+}
